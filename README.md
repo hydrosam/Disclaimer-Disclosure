@@ -21,11 +21,11 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
-* [LeXpunk/L3X disclosure] 
-* [Curve.fi] 
-* [Rari Capital/https://info.rari.capital/]
-* [LexDAO/https://www.lexdao.coop/]
+* LeXpunk  
+* Curve Finance: https://Curve.fi 
+* Rari Capital: https://info.rari.capital/
+* LexDAO: https://www.lexdao.coop/
 
- I also hold non-immaterial amounts (by portfolio %) of [$CRV, $CVX, $OHM, $EPS, $RGT, $SPELL, $SNX] & various stablecoins 
+ I also hold non-immaterial amounts (by portfolio %) of $CRV, $CVX, $OHM, $EPS, $RGT, $SPELL, $SNX & various stablecoins 
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
